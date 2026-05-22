@@ -1,7 +1,7 @@
 # 👨🏻‍💻 عمرو السبئي
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
+style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/yourlinkedin/)
 [![Gmail Badge](https://img.shields.io/badge/-yourmail@example.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:yourmail@example.com)](mailto:yourmail@example.com)
 
 ---
