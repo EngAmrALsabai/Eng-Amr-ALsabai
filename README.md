@@ -1,56 +1,46 @@
+<h1 align="center">Hi, I'm Amr Al-Sabaei 👋</h1>
 
-# 👨🏻‍💻 عمرو السبئي
+<h3 align="center">
+  Backend Developer ⚙️ | Frontend Developer 💻 | Problem Solver 🚀
+</h3>
 
+<p align="center">
+  <a href="https://www.facebook.com/eng.AmrALsabai?mibextid=ZbWKwL" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
 
+  <a href="https://www.instagram.com/eng.amral_sabai?igsh=MXd3NTRxZjhvYnZyeQ==" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 
----
-
-:wave: مرحباً!  
-أنا مبرمج فاهم في **Back-end** و **Front-end**، أشتغل بلغات متعددة مثل:  
-- **C++** و **C#** لتطبيقات عالية الأداء  
-- **Python** لتطوير الأدوات والبرمجيات الذكية  
-- **HTML, CSS, JS** لتطوير واجهات ويب تفاعلية  
-- **Databases** لإدارة البيانات بكفاءة  
-
-أركز على كتابة كود نظيف، قابل للتطوير، وآمن، وأحب اتباع **best practices** من البداية.
-
----
-
-<div align="center">
-    <details>
-        <summary><b>GitHub Metrics👇🏻</b></summary>
-    <br>
-        
-<img src="https://metrics.lecoq.io/yourusername?template=classic&isocalendar=1&achievements=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata">
-    </details>
-</div>
+  <a href="mailto:amr123badr713@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![C++](https://img.shields.io/static/v1?label=&message=C%2B%2B&color=00599C&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org/) | نظام إدارة مكتبة |
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | سكربتات تحليل بيانات |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=E34F26&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/HTML) | مواقع شخصية |
-| [![CSS](https://img.shields.io/static/v1?label=&message=CSS&color=1572B6&logo=CSS3&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/CSS) | تصميم واجهات |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | تطبيقات ويب تفاعلية |
-| [![C#](https://img.shields.io/static/v1?label=&message=C%23&color=239120&logo=C%20Sharp&logoColor=FFFFFF)](https://learn.microsoft.com/en-us/dotnet/csharp/) | تطبيقات سطح المكتب |
-| [![Database](https://img.shields.io/static/v1?label=&message=Database&color=4DB33D&logo=PostgreSQL&logoColor=FFFFFF)](https://www.postgresql.org/) | قواعد بيانات SQL/NoSQL |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="3px" />
 
----
+## 🚀 About Me
 
-📝 &nbsp;**أهدافي**
-- تطوير مشاريع مفتوحة المصدر على GitHub  
-- بناء تطبيقات عملية تجمع بين **Back-end** و **Front-end**  
-- مشاركة خبراتي مع المجتمع البرمجي  
+```cpp
+class AmrAlSabaei {
+public:
+    string role = "Backend & Frontend Developer";
+    string language = "Arabic";
 
----
-
-
-<div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-</div>
+    vector<string> skills = {
+        "C++",
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "C#",
+        "Database",
+        "Backend Development",
+        "Frontend Development",
+        "Problem Solving",
+        "Git & GitHub"
+    };
+};
